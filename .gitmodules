@@ -1,0 +1,9 @@
+[submodule "Puppet_Controller"]
+	path = Puppet_Controller
+	url = https://github.com/levitynan/Remote_Puppet_Show
+[submodule "Puppet_Receiver"]
+	path = Puppet_Receiver
+	url = https://github.com/levitynan/Remote_Puppet_Show
+[submodule "Receiver_Controller"]
+	path = Receiver_Controller
+	url = https://github.com/levitynan/Remote_Puppet_Show
