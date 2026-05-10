@@ -16,5 +16,5 @@
     "--compile-commands-dir=c:\\Users\\levit\\Visual Studio\\Remote_Puppet_Show\\Puppet_Receiver\\build"
   ],
   "idf.flashType": "UART",
-  "idf.monitorPort": "COM11"
+  "idf.monitorPort": "COM4"
 }
